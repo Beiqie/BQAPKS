@@ -1,0 +1,11 @@
+# Keep the Gradle wrapper scripts exactly as generated.
+* text=auto eol=lf
+*.bat text eol=crlf
+gradlew text eol=lf
+*.jar binary
+*.apk binary
+*.aab binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.keystore binary
